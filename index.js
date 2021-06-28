@@ -7,4 +7,4 @@ app.use("/", RouterIndex);
 
 app.listen(3000, ()=>{
     console.log("Servidor escuhadon en http//localhost:3000")
-})
+}) 
